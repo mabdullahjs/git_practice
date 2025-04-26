@@ -1,0 +1,10 @@
+git download kiya
+github pa account banayaa
+
+git bash open krka 2 commands likhi
+
+git config --global user.name "your_username"
+git config --global user.email "your_email"
+
+github pa aik repo banai
+uska baad us repo ka url jaha computer pa folder banana waha jaka cmd khola or git clone "repo-url"
